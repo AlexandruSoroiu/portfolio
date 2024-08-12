@@ -299,6 +299,14 @@ nav{
     gap: 50px;
 }
 
+.row > .project-container {
+    margin-top: 80px;
+}
+
+.project-container > h3 {
+    text-align: center;
+}
+
 .col{
     display: flex;
     width: 50%;
