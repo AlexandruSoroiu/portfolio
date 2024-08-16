@@ -99,7 +99,7 @@ function openLinkedin() {
     window.open("https://www.linkedin.com/in/alexandrudanielsoroiu/");
 }
 
-function openGithub() {
+function openGithub() {Í
     window.open("https://github.com/AlexandruSoroiu");
 }
 
