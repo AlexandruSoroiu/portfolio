@@ -104,7 +104,7 @@ function openGithub() {Í
 }
 
 function openResume() {
-    window.open("./AlexandruSoroiu_Resume.pdf")
+    window.open("./AlexandruSoroiu_SWE.pdf")
 }
 
 
